@@ -2,7 +2,7 @@
 title: 00 - Welcome
 author: ''
 weight: 1
-date: 2026-09-14
+date: 2026-09-01
 slug: []
 categories: []
 tags: []

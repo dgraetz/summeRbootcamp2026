@@ -1,5 +1,5 @@
 ---
-date: "2026-09-14"
+date: "2026-09-01"
 design:
   spacing: 6rem
 sections:

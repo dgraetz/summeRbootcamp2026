@@ -1,7 +1,7 @@
 ---
 title: 01 - Basics of R, RStudio, & R Markdown
 author: ''
-date: 2026-09-14
+date: 2026-09-01
 weight: 2
 slug: []
 categories: []
