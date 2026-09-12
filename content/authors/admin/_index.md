@@ -11,15 +11,15 @@ profiles:
 - icon: "custom/slack"
   link: https://uopsychology.slack.com/
 - icon: brands/github
-  link: https://github.com/ian-shryock/summeRbootcamp2025
+  link: https://github.com/dgraetz/summeRbootcamp2026
 superuser: true
 ---
 
-# UO R Bootcamp 2025
+# UO R Bootcamp 2026
 
 <br>
 
-Welcome to the 8th annual UO R Bootcamp hosted by the [Department of Psychology](https://psychology.uoregon.edu/) at the [University of Oregon](https://www.uoregon.edu). If you have any questions or concerns, please contact Ian Shryock---the 2025 bootcamp coordinator---at [ishryock@uoregon.edu](mailto:ishryock@uoregon.edu).
+Welcome to the 9th annual UO R Bootcamp hosted by the [Department of Psychology](https://psychology.uoregon.edu/) at the [University of Oregon](https://www.uoregon.edu). If you have any questions or concerns, please contact Dominik Graetz---the 2026 bootcamp coordinator---at [dgrtz@uoregon.edu](mailto:dgrtz@uoregon.edu).
 
 This website contains all of the details and materials for the UO R Bootcamp, along with resources for further learning and practice. The materials shared here are free and open source and may be shared and adapted under the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/). 
 
