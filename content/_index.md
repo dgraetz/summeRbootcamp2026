@@ -1,5 +1,5 @@
 ---
-date: "2025-09-14"
+date: "2026-09-14"
 design:
   spacing: 6rem
 sections:
@@ -31,11 +31,7 @@ sections:
   id: logistics
   content:
     subtitle: ''
-    text: "*How to prep*: Please check out the <a href='https://uorbootcamp2025.netlify.app/prework/'>Prework</a>
-      Slack</a> -- (use channel `#rbootcamp-2025`) \n\n*Where to access this site's
-      page\n\n*Where to meet*: Straub Hall, Basement Computer Labs (either 006 or
-      008) \n\n*Where to chat*: <a href='https://uopsychology.slack.com'>UO Psychology
-      source code*: <a href='https://github.com/dgraetz/summeRbootcamp2026'>GitHub</a>"
+    text: "*How to prep*: Please check out the <a href='/prework/'>Prework</a> page. \n\n*Where to meet*: Straub Hall, Basement Computer Lab 006 \n\n*Where to chat*: <a href='https://uopsychology.slack.com'>UO Psychology Slack</a> -- (use channel `#rbootcamp-2026`) \n\n*Where to find the source code*: <a href='https://github.com/dgraetz/summeRbootcamp2026'>GitHub</a>"
     title: Logistics
 - block: collection
   id: materials
@@ -44,7 +40,9 @@ sections:
     subtitle: ''
     text: ''
     filters:
-      folders: post
+      folders: 
+        - post
+    count: 0
   design:
     columns: '2'
   count: 0

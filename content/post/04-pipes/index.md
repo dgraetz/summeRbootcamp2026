@@ -1,7 +1,7 @@
 ---
 title: 04 - Piping
 author: ''
-date: 2025-09-14
+date: 2026-09-14
 weight: 5
 slug: []
 categories: []

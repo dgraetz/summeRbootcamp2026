@@ -1,5 +1,5 @@
 ---
-date: "2025-09-14"
+date: "2026-09-14"
 image:
   caption: 
 math: false
@@ -10,7 +10,7 @@ title: Resources
 type: docs
 ---
 
-Below is a curated list of resources we've found to be particularly useful and accessible. If you come across other great resources that you think you should be on this list, please [let us know](mailto:ishryock@uoregon.edu)!
+Below is a curated list of resources we've found to be particularly useful and accessible. If you come across other great resources that you think you should be on this list, please [let us know](mailto:dgrtz@uoregon.edu)!
 
 ***
 
