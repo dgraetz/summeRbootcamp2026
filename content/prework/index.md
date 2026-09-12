@@ -7,7 +7,7 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 
+date: 2026-09-01
 lastmod: 2026-09-01
 featured: false
 draft: false
@@ -41,7 +41,7 @@ If possible, please try to complete this checklist *before* the first UO R Bootc
 
 1) If you're in the Psychology Department: Join the [UO Psychology Slack](https://uopsychology.slack.com). The slack channel will help us help you troubleshoot any issues you have with your code during the camp and to answer any questions you have. It is also the best place to ask questions outside of the scheduled bootcamp hours. This is the department's multipurpose slack workspace, and we'll be using the channel `#rbootcamp-2026`. You should have received an email invitation to join the `UO Psychology` workspace. If you haven't received an invitation, send Dominik an email at [dgrtz@uoregon.edu](mailto:dgrtz@uoregon.edu). 
 
-2) Download and install both [R](https://cran.r-project.org) and [RStudio](https://www.rstudio.com/products/rstudio/download/). [R](https://cran.r-project.org) is free and, for the purposes of the bootcamp, you will only need the free version of [RStudio](https://www.rstudio.com/products/rstudio/download/). If you have any trouble downloading or opening [R](https://cran.r-project.org) or [RStudio](https://www.rstudio.com/products/rstudio/download/), please let one of the UO R Bootcamp team members know, and we will do our best to help you solve the issue.
+2) Download and install both [R](https://cran.r-project.org) and [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads). [R](https://cran.r-project.org) is free and, for the purposes of the bootcamp, you will only need the free version of [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads). If you have any trouble downloading or opening [R](https://cran.r-project.org) or [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads), please let one of the UO R Bootcamp team members know, and we will do our best to help you solve the issue.
 
 3) Download the [exercises](https://drive.google.com/drive/folders/1FeJs6gc8W03pUbYebv1_Wqp5DjxVX_wk?usp=sharing) for the UO R Bootcamp. We will be working through the materials and exercises together during the bootcamp.
 
