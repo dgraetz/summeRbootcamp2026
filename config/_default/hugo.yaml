@@ -6,7 +6,7 @@
 # Website name
 title: UO R Bootcamp 2026
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://uorbootcamp2026.netlify.app/'
 
 ############################
 ## LANGUAGE
