@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Hello! Welcome to the 8th Annual UO R Bootcamp. There are a few things we'd like you to do before we get started to make things run as smoothly as possible. 
+Hello! Welcome to the 9th Annual UO R Bootcamp. There are a few things we'd like you to do before we get started to make things run as smoothly as possible. 
 
 
 If possible, please try to complete this checklist *before* the first UO R Bootcamp session. Thank you!
@@ -43,7 +43,7 @@ If possible, please try to complete this checklist *before* the first UO R Bootc
 
 2) Download and install both [R](https://cran.r-project.org) and [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads). [R](https://cran.r-project.org) is free and, for the purposes of the bootcamp, you will only need the free version of [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads). If you have any trouble downloading or opening [R](https://cran.r-project.org) or [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads), please let one of the UO R Bootcamp team members know, and we will do our best to help you solve the issue.
 
-3) Download the [exercises](https://drive.google.com/drive/folders/1FeJs6gc8W03pUbYebv1_Wqp5DjxVX_wk?usp=sharing) for the UO R Bootcamp. We will be working through the materials and exercises together during the bootcamp.
+3) Download the [exercises](https://drive.google.com/open?id=1zrsvX0SKk_BgwqEUCTUd_O1jtEXa12uz&usp=drive_fs) for the UO R Bootcamp. We will be working through the materials and exercises together during the bootcamp.
 
 Looking forward to seeing you all soon. Hopefully we'll have you loving R in no time!
 

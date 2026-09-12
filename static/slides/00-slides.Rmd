@@ -53,66 +53,50 @@ knitr::include_graphics("images/psy-logo.png")
 ]
 # Introduction and Orientation
 
-UO R Bootcamp 2025
+UO R Bootcamp 2026
 ---
 class: split-four
 
 # Hello `r emoji::emoji("wave")`
 
-###  Welcome to the 8th annual UO R Bootcamp!
+###  Welcome to the 9th annual UO R Bootcamp!
 
+.column[.content[.center[<br><br><br><br><br><br><br>
 
+<img src="images/headshot_dominik.jpg" class="headshot" />
 
-.column[.content[.center[<br><br><br><br><br><br>
-
-```{r echo = FALSE, out.width="100%"}
-knitr::include_graphics("images/ian.png")
-```
-
-### <u>Ian</u>
-
-]]]
-
-.column[.content[.center[<br><br><br><br><br><br>
-
-```{r echo = FALSE, out.width="100%"}
-knitr::include_graphics("images/dom.png")
-```
 ### <u>Dominik</u>
 
-
 ]]]
 
+.column[.content[.center[<br><br><br><br><br><br><br>
 
-.column[.content[.center[<br><br><br><br><br><br>
-
-```{r echo = FALSE, out.width="100%"}
-knitr::include_graphics("images/sop.png")
-```
-
+<img src="images/headshot_sophia.jpg" class="headshot" />
 
 ### <u>Sophia</u>
 
 ]]]
 
+.column[.content[.center[<br><br><br><br><br><br><br>
 
+<img src="images/headshot_fatemeh.jpg" class="headshot" />
 
-.column[.content[.center[<br><br><br><br><br><br>
+### <u>Fatemeh</u>
 
-```{r echo = FALSE, out.width="100%"}
-knitr::include_graphics("images/neha.png")
-```
+]]]
 
+.column[.content[.center[<br><br><br><br><br><br><br>
 
-### <u>Neha</u>
+<img src="images/headshot_ziyuan.jpg" class="headshot" />
 
+### <u>Ziyuan</u>
 
 ]]]
 ---
 # Schedule `r emoji::emoji("calendar")`
 
 
-#### **Day 1: Wednesday, 9/24, 9 AM - 12 PM PDT**
+#### **Day 1: Tuesday, 9/22, 9 AM - 12 PM PDT**
 .smaller-font[
 + Basics of R, RStudio, & R Markdown
 + Data Types & Structures
@@ -120,7 +104,7 @@ knitr::include_graphics("images/neha.png")
 
 --
 
-#### **Day 2: Thursday, 9/25, 9 AM - 12 PM PDT**
+#### **Day 2: Thursday, 9/24, 9 AM - 12 PM PDT**
 .smaller-font[
 + Piping
 + Introduction to the Tidyverse
@@ -129,7 +113,7 @@ knitr::include_graphics("images/neha.png")
 
 --
 
-#### **Day 3: Friday, 9/26, 9 AM - 1 PM PDT**
+#### **Day 3: Friday, 9/25, 9 AM - 12 PM PDT**
 .smaller-font[+ Data Tidying with `{tidyr}`
 + Data Visualization with `{ggplot2}`
 + R Tips & Tricks]
@@ -142,19 +126,19 @@ class: split-three
 <br><br><br><br><br>
 # [`r fontawesome::fa("slack", height = "120px")`](https://uopsychology.slack.com/)
 
-### Slack <br> (#rbootcamp-2025)
+### Slack <br> (#rbootcamp-2026)
 ]]]
 
 .column[.content[.center[
 <br><br><br><br><br>
-# [`r fontawesome::fa("google", height = "120px")`](https://drive.google.com/drive/folders/1FeJs6gc8W03pUbYebv1_Wqp5DjxVX_wk?usp=sharing)
+# [`r fontawesome::fa("google", height = "120px")`](https://drive.google.com/open?id=1zrsvX0SKk_BgwqEUCTUd_O1jtEXa12uz&usp=drive_fs)
 
 ### Google drive
 ]]]
 
 .column[.content[.center[
 <br><br><br><br><br>
-# [`r fontawesome::fa("github", height = "120px")`](https://github.com/ian-shryock/summeRbootcamp2025)
+# [`r fontawesome::fa("github", height = "120px")`](https://github.com/dgraetz/summeRbootcamp2026)
 
 ### GitHub
 ]]]

@@ -61,7 +61,7 @@ knitr::include_graphics("images/psy-logo.png")
 
 # R Tips & Tricks
 
-UO R Bootcamp 2025
+UO R Bootcamp 2026
 
 ---
 
@@ -573,7 +573,7 @@ knitr::include_graphics("images/gganimate.gif")
 
 --
 
-Check out the [resources](https://uorbootcamp2024.netlify.app/resources/) page on the [UO R Bootcamp](https://uorbootcamp2024.netlify.app/) website for additional readings, websites, tutorials, and classes!
+Check out the [resources](https://uorbootcamp2026.netlify.app/resources/) page on the [UO R Bootcamp](https://uorbootcamp2026.netlify.app/) website for additional readings, websites, tutorials, and classes!
 
 ---
 class: yourturn, center, middle
