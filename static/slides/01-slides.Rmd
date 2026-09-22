@@ -207,7 +207,7 @@ x
 
 Technically, both `<-` and `=` work as assignment operators. But we'll strictly use `<-` from here on out. 
 
-Note: We highly recommend following the [tidyverse style guide](https://style.tidyverse.org/). We'll talk more about the tidyverse tomorrow.
+Note: We highly recommend following the [tidyverse style guide](https://style.tidyverse.org/). We'll talk more about the tidyverse on Thursday.
 
 ???
 

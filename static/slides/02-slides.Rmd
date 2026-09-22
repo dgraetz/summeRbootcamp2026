@@ -849,19 +849,19 @@ class: solution
 .panelset[
 .panel[.panel-name[Q1]
 ```{r}
-sarah_dimakis <- list(name         = "Sarah Dimakis",
-                    height       = 6.30,
-                    ice_cream    = c("cookie dough", "banana"))
-sarah_dimakis
+dominik_graetz <- list(name         = "Dominik Graetz",
+                       height       = 6.5,
+                       ice_cream    = c("rocky road", "chocolate & peanut butter"))
+dominik_graetz
 ```
 ]
 
 .panel[.panel-name[Q2]
 
 ```{r}
-sarah_dimakis$name
+dominik_graetz$name
 
-sarah_dimakis[["name"]]
+dominik_graetz[["name"]]
 ```
 
 ]
